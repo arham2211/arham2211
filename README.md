@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Muhammad Arham Affan, a **Future Data Scientist** currently a university student in FAST National University. To see my profile in detail, I recommend to look at my LinkedIn profile.
+I am Muhammad Arham Affan, a **Future Data Scientist** currently studying in FAST National University. As a student, I am deeply interested in data science, machine learning, and their applications in solving real-world problems. I am eager to learn and grow in this field.
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/YourLinkedinUsername/)
 [![Facebook](https://img.shields.io/badge/facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/YourFacebookUsername/)
