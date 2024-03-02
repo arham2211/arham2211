@@ -1,4 +1,4 @@
-![image](https://github.com/arham2211/arham2211/assets/122104470/b4220d46-3c99-486d-9028-ef5269191c17)### Hi there 👋
+### Hi there 👋
 
 I am Muhammad Arham Affan, a **Future Data Scientist** currently a university student in FAST National University. To see my profile in detail, I recommend to look at my LinkedIn profile.
 
