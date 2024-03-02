@@ -25,7 +25,7 @@ I am Muhammad Arham Affan, a **Future Data Scientist** currently a university st
 ## Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=arham2211&count_private=true&show_icons=true&include_all_commits=true&theme=prussian&layout=compact)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arham2211&hide=TeX&layout=compact&theme=prussian)
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=arham2211.arham2211)
 
