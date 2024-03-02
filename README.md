@@ -1,8 +1,10 @@
-### Hi there 👋
+![image](https://github.com/arham2211/arham2211/assets/122104470/b4220d46-3c99-486d-9028-ef5269191c17)### Hi there 👋
 
 I am Muhammad Arham Affan, a **Future Data Scientist** currently a university student in FAST National University. To see my profile in detail, I recommend to look at my LinkedIn profile.
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-adeel-9ba19951/)
+[![Facebook](https://img.shields.io/badge/facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/YourFacebookUsername/)
+[![Instagram](https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/YourInstagramUsername/)
 
 
 ## Skills
