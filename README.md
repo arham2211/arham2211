@@ -7,7 +7,7 @@ I am Muhammad Arham Affan, a **Future Data Scientist** currently a university st
 
 ## Skills
 
-![React](https://img.shields.io/badge/-React-black?style=social&logo=react)
+![React](https://img.shields.io/badge/-React-black?style=plastic&logo=react)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)
 ![Python](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=Python)
 ![react-router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
