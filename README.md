@@ -28,6 +28,7 @@ I am Muhammad Arham Affan, a **Future Data Scientist** currently studying in FAS
 
 ## Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arham2211&hide=TeX&layout=compact&theme=prussian)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arham2211&layout=compact&theme=prussian)
+
 
 
