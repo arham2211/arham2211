@@ -49,6 +49,8 @@ I am passionate about **building scalable applications**, **exploring AI-driven 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arham2211&layout=compact&theme=prussian)
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=arham2211&show_icons=true&theme=prussian)
+
 ---
 
 ## 🚀 Projects
