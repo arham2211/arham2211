@@ -1,6 +1,5 @@
 # Hi there, I'm  Muhammad Arham Affan 👋
 
-
 I am a **Full Stack Developer** and **Aspiring Data Scientist** currently studying at **FAST National University**. My expertise lies in **frontend development**, **machine learning**, and **full-stack applications**. I have worked on various projects, including **React.js and Next.js web applications, FastAPI backends, and data-driven solutions**.
 
 I am passionate about **building scalable applications**, **exploring AI-driven technologies**, and **solving complex problems** with an efficient and structured approach.
