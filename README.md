@@ -52,16 +52,6 @@ I am passionate about **building scalable applications**, **exploring AI-driven 
 
 ---
 
-## 🚀 Projects
-
-Here are some of my notable projects:
-
-- **[Project Name 1](https://github.com/yourusername/project1)** - A brief description of the project.
-- **[Project Name 2](https://github.com/yourusername/project2)** - A brief description of the project.
-- **[Project Name 3](https://github.com/yourusername/project3)** - A brief description of the project.
-
----
-
 ## 📫 Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arham-affan-014b342b7)
 [![Facebook](https://img.shields.io/badge/facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/arham.affan.10/)
