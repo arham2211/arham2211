@@ -168,15 +168,17 @@ Multi-agent cryptocurrency analysis system using LangChain + time-series forecas
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=arham2211&theme=github_dark" alt="Most Used Languages" width="32%"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=arham2211&theme=github_dark&utcOffset=5" alt="Productive Time" width="32%"/>
 </div>
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arham2211&theme=github_dark" alt="Profile Summary" width="87%"/>
-</div>
+
 ---
 
-## 📈 Contribution Activity
-
+## 🐍 Contribution Snake
+ 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arham2211&bg_color=0d1117&color=a78bfa&line=6e40c9&point=c4b5fd&area=true&area_color=6e40c9&hide_border=true" alt="Contribution Graph" width="100%"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arham2211/arham2211/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/arham2211/arham2211/output/github-snake.svg">
+    <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/arham2211/arham2211/output/github-snake-dark.svg" width="100%">
+  </picture>
 </div>
 
 ---
