@@ -3,7 +3,7 @@
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=🤖+Building+intelligent+systems+with+GenAI;⚡+LangChain+%7C+LangGraph+%7C+FastAPI+%7C+Next.js;🚀+Full+Stack+AI+Engineer+%40+Manifest+Global;🎓+CS+%40+FAST+National+University+%7C+GPA+3.45" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Building+intelligent+systems+with+GenAI;LangChain+%7C+LangGraph+%7C+FastAPI+%7C+Next.js;Full+Stack+AI+Engineer+%40+Manifest+Global;CS+%40+FAST+National+University+%7C+GPA+3.45" alt="Typing SVG" />
 </p>
 
 <div align="center">
@@ -13,7 +13,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arhamaffan22@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/arham2211)
 
-![Profile Views](https://visitcount.itsvg.in/api?id=arham2211&icon=6&color=6)
+![Profile Views](https://komarev.com/ghpvc/?username=arham2211&color=6e40c9&style=flat-square&label=Profile+Views)
 
 </div>
 
@@ -47,10 +47,15 @@ ask_me    : LLMs, RAG pipelines, agentic workflows, Next.js, FastAPI
 
 <div align="center">
 
-[![LifeChain AI](https://github-readme-stats.vercel.app/api/pin/?username=arham2211&repo=LifeChain-AI&theme=github_dark&hide_border=true&title_color=a78bfa&icon_color=a78bfa&text_color=c4b5fd&bg_color=0d1117)](https://github.com/arham2211/LifeChain-AI)
-[![Aura SaaS Builder](https://github-readme-stats.vercel.app/api/pin/?username=arham2211&repo=Aura&theme=github_dark&hide_border=true&title_color=a78bfa&icon_color=a78bfa&text_color=c4b5fd&bg_color=0d1117)](https://github.com/arham2211/Aura)
-[![JobMate AI](https://github-readme-stats.vercel.app/api/pin/?username=arham2211&repo=JobMate-AI&theme=github_dark&hide_border=true&title_color=a78bfa&icon_color=a78bfa&text_color=c4b5fd&bg_color=0d1117)](https://github.com/arham2211/JobMate-AI)
-[![Crypto Bot Analyzer](https://github-readme-stats.vercel.app/api/pin/?username=arham2211&repo=Crypto-Bot-Analyzer&theme=github_dark&hide_border=true&title_color=a78bfa&icon_color=a78bfa&text_color=c4b5fd&bg_color=0d1117)](https://github.com/arham2211/Crypto-Bot-Analyzer)
+<!-- 
+  ⚠️ UPDATE REPO NAMES BELOW to match your exact GitHub repo names.
+  Go to github.com/arham2211 → copy each repo name exactly as shown.
+  Replace REPO-NAME-1, REPO-NAME-2, etc. in both the img src and the href.
+-->
+[![LifeChain AI](https://github-readme-stats.vercel.app/api/pin/?username=arham2211&repo=REPO-NAME-1&theme=github_dark&hide_border=true&title_color=a78bfa&icon_color=a78bfa&text_color=c4b5fd&bg_color=0d1117)](https://github.com/arham2211/licfechain-ai)
+[![Aura SaaS Builder](https://github-readme-stats.vercel.app/api/pin/?username=arham2211&repo=REPO-NAME-2&theme=github_dark&hide_border=true&title_color=a78bfa&icon_color=a78bfa&text_color=c4b5fd&bg_color=0d1117)](https://github.com/arham2211/aura)
+[![JobMate AI](https://github-readme-stats.vercel.app/api/pin/?username=arham2211&repo=REPO-NAME-3&theme=github_dark&hide_border=true&title_color=a78bfa&icon_color=a78bfa&text_color=c4b5fd&bg_color=0d1117)](https://github.com/arham2211/JobMate-AI-Extension)
+[![Crypto Bot Analyzer](https://github-readme-stats.vercel.app/api/pin/?username=arham2211&repo=REPO-NAME-4&theme=github_dark&hide_border=true&title_color=a78bfa&icon_color=a78bfa&text_color=c4b5fd&bg_color=0d1117)](https://github.com/arham2211/crypto-bot-analyzer)
 
 </div>
 
@@ -78,8 +83,8 @@ Multi-agent cryptocurrency analysis system using LangChain + time-series forecas
 
 ### 🤖 AI / ML
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![LangChain](https://img.shields.io/badge/🦜_LangChain-1C3C3C?style=for-the-badge&logoColor=white)
-![LangGraph](https://img.shields.io/badge/🔗_LangGraph-6E40C9?style=for-the-badge&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-6E40C9?style=for-the-badge&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
@@ -131,7 +136,6 @@ Multi-agent cryptocurrency analysis system using LangChain + time-series forecas
 </div>
 
 ---
-
 
 ## 📫 Let's Connect
 
