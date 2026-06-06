@@ -161,7 +161,7 @@ Multi-agent cryptocurrency analysis system using LangChain + time-series forecas
  
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=arham2211&theme=github-dark-blue&hide_border=true&stroke=6e40c9&ring=a78bfa&fire=ff6b6b&currStreakLabel=a78bfa&sideLabels=c4b5fd&dates=8b5cf6" alt="GitHub Streak" width="49%"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=arham2211&theme=github_dark" alt="GitHub Stats" width="49%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=arham2211&theme=github_dark" alt="GitHub Stats" width="40%"/>
 </div>
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=arham2211&theme=github_dark" alt="Top Languages" width="32%"/>
