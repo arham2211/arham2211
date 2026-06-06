@@ -45,14 +45,60 @@ ask_me    : LLMs, RAG pipelines, agentic workflows, Next.js, FastAPI
 
 ## 🔥 Featured Projects
 
-<div align="center">
-
-[![LifeChain AI](https://github-readme-stats.vercel.app/api/pin/?username=arham2211&repo=licfechain-ai&theme=github_dark&hide_border=true&title_color=a78bfa&icon_color=a78bfa&text_color=c4b5fd&bg_color=0d1117)](https://github.com/arham2211/licfechain-ai)
-[![Aura SaaS Builder](https://github-readme-stats.vercel.app/api/pin/?username=arham2211&repo=aura&theme=github_dark&hide_border=true&title_color=a78bfa&icon_color=a78bfa&text_color=c4b5fd&bg_color=0d1117)](https://github.com/arham2211/aura)
-[![JobMate AI](https://github-readme-stats.vercel.app/api/pin/?username=arham2211&repo=JobMate-AI-Extension&theme=github_dark&hide_border=true&title_color=a78bfa&icon_color=a78bfa&text_color=c4b5fd&bg_color=0d1117)](https://github.com/arham2211/JobMate-AI-Extension)
-[![Crypto Bot Analyzer](https://github-readme-stats.vercel.app/api/pin/?username=arham2211&repo=crypto-bot-analyzer&theme=github_dark&hide_border=true&title_color=a78bfa&icon_color=a78bfa&text_color=c4b5fd&bg_color=0d1117)](https://github.com/arham2211/crypto-bot-analyzer)
-
-</div>
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🏥 LifeChain AI — Healthcare Platform</h3>
+      <p>Full-stack AI healthcare platform with disease progression tracking for diabetes, CKD, anemia & oral cancer screening. Unified patient records + family hereditary risk analysis.</p>
+      <a href="https://github.com/arham2211/licfechain-ai">
+        <img src="https://img.shields.io/badge/View_Repo-%236E40C9?style=for-the-badge&logo=github&logoColor=white"/>
+      </a>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
+      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+      <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white"/>
+    </td>
+    <td width="50%" valign="top">
+      <h3>✨ Aura — AI SaaS Website Builder</h3>
+      <p>Generates & deploys full web apps using OpenAI agents + secure E2B sandboxes. Live code editing, agent-driven refactoring, auth, billing & one-click deployment.</p>
+      <a href="https://github.com/arham2211/aura">
+        <img src="https://img.shields.io/badge/View_Repo-%236E40C9?style=for-the-badge&logo=github&logoColor=white"/>
+      </a>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
+      <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+      <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>💼 JobMate AI — Smart Job Assistant</h3>
+      <p>Chrome extension that uses Gemini AI to analyze LinkedIn job descriptions against your resume. Smart scoring system + skill-overlap detection to guide job decisions.</p>
+      <a href="https://github.com/arham2211/JobMate-AI-Extension">
+        <img src="https://img.shields.io/badge/View_Repo-%236E40C9?style=for-the-badge&logo=github&logoColor=white"/>
+      </a>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Gemini_API-8E75B2?style=flat-square&logo=google&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Chrome_Extension-4285F4?style=flat-square&logo=googlechrome&logoColor=white"/>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📈 Crypto Bot Analyzer</h3>
+      <p>Multi-agent cryptocurrency analysis system using LangChain + time-series forecasting. Integrates autonomous agents for real-time market intelligence and prediction.</p>
+      <a href="https://github.com/arham2211/crypto-bot-analyzer">
+        <img src="https://img.shields.io/badge/View_Repo-%236E40C9?style=for-the-badge&logo=github&logoColor=white"/>
+      </a>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+      <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Generative_AI-FF6B35?style=flat-square&logoColor=white"/>
+    </td>
+  </tr>
+</table>
 
 <details>
 <summary><b>📋 Project Highlights</b></summary>
@@ -128,14 +174,6 @@ Multi-agent cryptocurrency analysis system using LangChain + time-series forecas
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=arham2211&bg_color=0d1117&color=a78bfa&line=6e40c9&point=c4b5fd&area=true&area_color=6e40c9&hide_border=true" alt="Contribution Graph" width="100%"/>
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=arham2211&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=7" alt="GitHub Trophies"/>
 </div>
 
 ---
