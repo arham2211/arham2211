@@ -158,16 +158,19 @@ Multi-agent cryptocurrency analysis system using LangChain + time-series forecas
 ---
 
 ## 📊 GitHub Stats
-
+ 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=arham2211&theme=github-dark-blue&hide_border=true&stroke=6e40c9&ring=a78bfa&fire=ff6b6b&currStreakLabel=a78bfa&sideLabels=c4b5fd&dates=8b5cf6" alt="GitHub Streak" width="49%"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=arham2211&show_icons=true&theme=github_dark&hide_border=true&title_color=a78bfa&icon_color=a78bfa&text_color=c4b5fd&bg_color=0d1117&include_all_commits=true&count_private=true" alt="GitHub Stats" width="49%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=arham2211&theme=github_dark" alt="GitHub Stats" width="49%"/>
 </div>
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arham2211&layout=compact&theme=github_dark&hide_border=true&title_color=a78bfa&text_color=c4b5fd&bg_color=0d1117&langs_count=8" alt="Top Languages" width="40%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=arham2211&theme=github_dark" alt="Top Languages" width="32%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=arham2211&theme=github_dark" alt="Most Used Languages" width="32%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=arham2211&theme=github_dark&utcOffset=5" alt="Productive Time" width="32%"/>
 </div>
-
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arham2211&theme=github_dark" alt="Profile Summary" width="98%"/>
+</div>
 ---
 
 ## 📈 Contribution Activity
