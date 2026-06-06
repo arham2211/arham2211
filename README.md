@@ -169,7 +169,7 @@ Multi-agent cryptocurrency analysis system using LangChain + time-series forecas
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=arham2211&theme=github_dark&utcOffset=5" alt="Productive Time" width="32%"/>
 </div>
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arham2211&theme=github_dark" alt="Profile Summary" width="85%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arham2211&theme=github_dark" alt="Profile Summary" width="87%"/>
 </div>
 ---
 
