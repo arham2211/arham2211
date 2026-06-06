@@ -9,7 +9,7 @@
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arham-affan-014b342b7)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%236E40C9.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://your-portfolio-link.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%236E40C9.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://arham-affan-portfolio.vercel.app)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arhamaffan22@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/arham2211)
 
@@ -184,7 +184,7 @@ Multi-agent cryptocurrency analysis system using LangChain + time-series forecas
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arham-affan-014b342b7)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arhamaffan22@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%236E40C9.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://your-portfolio-link.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%236E40C9.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://arham-affan-portfolio.vercel.app/)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/arham.affan.10/)
 
 </div>
