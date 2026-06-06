@@ -1,62 +1,160 @@
-# Hi there, I'm  Muhammad Arham Affan 👋
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:6e40c9,100:0d1117&height=200&section=header&text=Muhammad%20Arham%20Affan&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Associate%20Platform%20Engineer%2C%20AI%20Enablement%20%40%20Manifest%20Global&descAlignY=56&descSize=15&descFontColor=c4b5fd" width="100%"/>
+</div>
 
-I am a **Full Stack Developer** and **Aspiring Data Scientist** currently studying at **FAST National University**. My expertise lies in **frontend development**, **machine learning**, and **full-stack applications**. I have worked on various projects, including **React.js and Next.js web applications, FastAPI backends, and data-driven solutions**.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=🤖+Building+intelligent+systems+with+GenAI;⚡+LangChain+%7C+LangGraph+%7C+FastAPI+%7C+Next.js;🚀+Full+Stack+AI+Engineer+%40+Manifest+Global;🎓+CS+%40+FAST+National+University+%7C+GPA+3.45" alt="Typing SVG" />
+</p>
 
-I am passionate about **building scalable applications**, **exploring AI-driven technologies**, and **solving complex problems** with an efficient and structured approach.
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arham-affan-014b342b7)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%236E40C9.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://your-portfolio-link.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arhamaffan22@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/arham2211)
+
+![Profile Views](https://visitcount.itsvg.in/api?id=arham2211&icon=6&color=6)
+
+</div>
 
 ---
 
-## 🛠️ Skills
+## 🧑‍💻 About Me
 
-### **Languages & Frameworks**
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg" title="Next.js" alt="Next.js" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="50" height="50"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" title="Tailwind CSS" alt="Tailwind CSS" width="50" height="50"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" title="Bootstrap" alt="Bootstrap" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original-wordmark.svg" title="FastAPI" alt="FastAPI" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" title="Express.js" alt="Express.js" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="Node.js" alt="Node.js" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/langchain-ai/langchain/blob/master/docs/static/img/logo-dark.svg" title="LangChain" alt="LangChain" width="150" height="50"/>&nbsp;
-</div
+```yaml
+name      : Muhammad Arham Affan
+role      : Associate Platform Engineer, AI Enablement @ Manifest Global
+education : BS Computer Science — FAST National University (GPA 3.45 | 3× Dean's List)
+focus     : Generative AI · Agentic Systems · Full Stack Engineering
+currently : Building AI-powered platforms with LangGraph & LangChain
+ask_me    : LLMs, RAG pipelines, agentic workflows, Next.js, FastAPI
+```
 
-### **Databases**
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" alt="MongoDB" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" title="SQLite" alt="SQLite" width="50" height="50"/>&nbsp;
+---
+
+## 💼 Experience
+
+| Role | Company | Period |
+|------|---------|--------|
+| 🟣 **Associate Platform Engineer, AI Enablement** | Manifest Global | 2026 – Present |
+| 🔵 AI Intern | Cialfo Pte Ltd | Sep 2025 – Apr 2026 |
+| 🟢 Generative AI Engineer *(Part-Time)* | Lambda Theta | Sep 2025 – Dec 2025 |
+| 🟡 AI Developer Intern | HNH Soft Tech Solutions | Jun 2024 – Oct 2024 |
+
+---
+
+## 🔥 Featured Projects
+
+<div align="center">
+
+[![LifeChain AI](https://github-readme-stats.vercel.app/api/pin/?username=arham2211&repo=LifeChain-AI&theme=github_dark&hide_border=true&title_color=a78bfa&icon_color=a78bfa&text_color=c4b5fd&bg_color=0d1117)](https://github.com/arham2211/LifeChain-AI)
+[![Aura SaaS Builder](https://github-readme-stats.vercel.app/api/pin/?username=arham2211&repo=Aura&theme=github_dark&hide_border=true&title_color=a78bfa&icon_color=a78bfa&text_color=c4b5fd&bg_color=0d1117)](https://github.com/arham2211/Aura)
+[![JobMate AI](https://github-readme-stats.vercel.app/api/pin/?username=arham2211&repo=JobMate-AI&theme=github_dark&hide_border=true&title_color=a78bfa&icon_color=a78bfa&text_color=c4b5fd&bg_color=0d1117)](https://github.com/arham2211/JobMate-AI)
+[![Crypto Bot Analyzer](https://github-readme-stats.vercel.app/api/pin/?username=arham2211&repo=Crypto-Bot-Analyzer&theme=github_dark&hide_border=true&title_color=a78bfa&icon_color=a78bfa&text_color=c4b5fd&bg_color=0d1117)](https://github.com/arham2211/Crypto-Bot-Analyzer)
+
 </div>
 
-### **Tools & Technologies**
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="GitHub" alt="GitHub" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" alt="Jupyter" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="Pandas" alt="Pandas" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="NumPy" alt="NumPy" width="50" height="50"/>&nbsp;
-</div>
+<details>
+<summary><b>📋 Project Highlights</b></summary>
+<br>
+
+**🏥 LifeChain AI — Healthcare Platform**
+Full-stack AI healthcare platform with unified patient records, AI-assisted disease progression tracking (diabetes, CKD, anemia, oral cancer), and image-based screening. Built with FastAPI, Next.js, TensorFlow, PyTorch, XGBoost, Docker, OpenAI.
+
+**✨ Aura — AI-Powered SaaS Website Builder**
+Generates and deploys full web apps using OpenAI agents + secure E2B sandboxes. Features live code editing, agent-driven refactoring, auth (Clerk), billing, and one-click deployment. Stack: Next.js, tRPC, Inngest, Prisma, PostgreSQL (Neon), Docker.
+
+**💼 JobMate AI — Smart Job Assistant**
+Chrome extension that uses Gemini AI to analyze LinkedIn job descriptions against your resume with a smart scoring system and skill-overlap detection to guide job decisions.
+
+**📈 Crypto Bot Analyzer**
+Multi-agent cryptocurrency analysis system using LangChain + time-series forecasting. Integrates autonomous agents for real-time market intelligence and prediction.
+
+</details>
+
+---
+
+## 🛠️ Tech Stack
+
+### 🤖 AI / ML
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![LangChain](https://img.shields.io/badge/🦜_LangChain-1C3C3C?style=for-the-badge&logoColor=white)
+![LangGraph](https://img.shields.io/badge/🔗_LangGraph-6E40C9?style=for-the-badge&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+### 🖥️ Frontend
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### ⚙️ Backend & DevOps
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+### 🗄️ Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ---
 
 ## 📊 GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arham2211&layout=compact&theme=prussian)
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=arham2211&theme=github-dark-blue&hide_border=true&stroke=6e40c9&ring=a78bfa&fire=ff6b6b&currStreakLabel=a78bfa&sideLabels=c4b5fd&dates=8b5cf6" alt="GitHub Streak" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=arham2211&show_icons=true&theme=github_dark&hide_border=true&title_color=a78bfa&icon_color=a78bfa&text_color=c4b5fd&bg_color=0d1117&include_all_commits=true&count_private=true" alt="GitHub Stats" width="49%"/>
+</div>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=arham2211&show_icons=true&theme=prussian)
-
----
-
-## 📫 Let's Connect!
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arham-affan-014b342b7)
-[![Facebook](https://img.shields.io/badge/facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/arham.affan.10/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arham2211&layout=compact&theme=github_dark&hide_border=true&title_color=a78bfa&text_color=c4b5fd&bg_color=0d1117&langs_count=8" alt="Top Languages" width="40%"/>
+</div>
 
 ---
 
-⭐️ From [Arham Affan](https://github.com/arham2211)
+## 📈 Contribution Activity
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arham2211&bg_color=0d1117&color=a78bfa&line=6e40c9&point=c4b5fd&area=true&area_color=6e40c9&hide_border=true" alt="Contribution Graph" width="100%"/>
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=arham2211&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=7" alt="GitHub Trophies"/>
+</div>
+
+---
+
+## 📫 Let's Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arham-affan-014b342b7)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arhamaffan22@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%236E40C9.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://your-portfolio-link.com)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/arham.affan.10/)
+
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:6e40c9,100:0d1117&height=120&section=footer" width="100%"/>
+</div>
+
+<div align="center">
+  <i>⭐ Built with 💜 by <a href="https://github.com/arham2211">Arham Affan</a></i>
+</div>
