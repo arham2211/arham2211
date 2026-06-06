@@ -47,12 +47,6 @@ ask_me    : LLMs, RAG pipelines, agentic workflows, Next.js, FastAPI
 
 <div align="center">
 
-<!-- 
-  ⚠️ UPDATE REPO NAMES BELOW to match your exact GitHub repo names.
-  Go to github.com/arham2211 → copy each repo name exactly as shown.
-  Replace REPO-NAME-1, REPO-NAME-2, etc. in both the img src and the href.
--->
-
 [![LifeChain AI](https://github-readme-stats.vercel.app/api/pin/?username=arham2211&repo=licfechain-ai&theme=github_dark&hide_border=true&title_color=a78bfa&icon_color=a78bfa&text_color=c4b5fd&bg_color=0d1117)](https://github.com/arham2211/licfechain-ai)
 [![Aura SaaS Builder](https://github-readme-stats.vercel.app/api/pin/?username=arham2211&repo=aura&theme=github_dark&hide_border=true&title_color=a78bfa&icon_color=a78bfa&text_color=c4b5fd&bg_color=0d1117)](https://github.com/arham2211/aura)
 [![JobMate AI](https://github-readme-stats.vercel.app/api/pin/?username=arham2211&repo=JobMate-AI-Extension&theme=github_dark&hide_border=true&title_color=a78bfa&icon_color=a78bfa&text_color=c4b5fd&bg_color=0d1117)](https://github.com/arham2211/JobMate-AI-Extension)
@@ -134,6 +128,14 @@ Multi-agent cryptocurrency analysis system using LangChain + time-series forecas
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=arham2211&bg_color=0d1117&color=a78bfa&line=6e40c9&point=c4b5fd&area=true&area_color=6e40c9&hide_border=true" alt="Contribution Graph" width="100%"/>
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=arham2211&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=7" alt="GitHub Trophies"/>
 </div>
 
 ---
