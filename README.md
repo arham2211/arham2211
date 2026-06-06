@@ -52,10 +52,11 @@ ask_me    : LLMs, RAG pipelines, agentic workflows, Next.js, FastAPI
   Go to github.com/arham2211 → copy each repo name exactly as shown.
   Replace REPO-NAME-1, REPO-NAME-2, etc. in both the img src and the href.
 -->
-[![LifeChain AI](https://github-readme-stats.vercel.app/api/pin/?username=arham2211&repo=REPO-NAME-1&theme=github_dark&hide_border=true&title_color=a78bfa&icon_color=a78bfa&text_color=c4b5fd&bg_color=0d1117)](https://github.com/arham2211/licfechain-ai)
-[![Aura SaaS Builder](https://github-readme-stats.vercel.app/api/pin/?username=arham2211&repo=REPO-NAME-2&theme=github_dark&hide_border=true&title_color=a78bfa&icon_color=a78bfa&text_color=c4b5fd&bg_color=0d1117)](https://github.com/arham2211/aura)
-[![JobMate AI](https://github-readme-stats.vercel.app/api/pin/?username=arham2211&repo=REPO-NAME-3&theme=github_dark&hide_border=true&title_color=a78bfa&icon_color=a78bfa&text_color=c4b5fd&bg_color=0d1117)](https://github.com/arham2211/JobMate-AI-Extension)
-[![Crypto Bot Analyzer](https://github-readme-stats.vercel.app/api/pin/?username=arham2211&repo=REPO-NAME-4&theme=github_dark&hide_border=true&title_color=a78bfa&icon_color=a78bfa&text_color=c4b5fd&bg_color=0d1117)](https://github.com/arham2211/crypto-bot-analyzer)
+
+[![LifeChain AI](https://github-readme-stats.vercel.app/api/pin/?username=arham2211&repo=licfechain-ai&theme=github_dark&hide_border=true&title_color=a78bfa&icon_color=a78bfa&text_color=c4b5fd&bg_color=0d1117)](https://github.com/arham2211/licfechain-ai)
+[![Aura SaaS Builder](https://github-readme-stats.vercel.app/api/pin/?username=arham2211&repo=aura&theme=github_dark&hide_border=true&title_color=a78bfa&icon_color=a78bfa&text_color=c4b5fd&bg_color=0d1117)](https://github.com/arham2211/aura)
+[![JobMate AI](https://github-readme-stats.vercel.app/api/pin/?username=arham2211&repo=JobMate-AI-Extension&theme=github_dark&hide_border=true&title_color=a78bfa&icon_color=a78bfa&text_color=c4b5fd&bg_color=0d1117)](https://github.com/arham2211/JobMate-AI-Extension)
+[![Crypto Bot Analyzer](https://github-readme-stats.vercel.app/api/pin/?username=arham2211&repo=crypto-bot-analyzer&theme=github_dark&hide_border=true&title_color=a78bfa&icon_color=a78bfa&text_color=c4b5fd&bg_color=0d1117)](https://github.com/arham2211/crypto-bot-analyzer)
 
 </div>
 
